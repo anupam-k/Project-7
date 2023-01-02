@@ -256,6 +256,13 @@ nav img:last-child {
   .nav-items {
       margin-left: 40px;
   }
+  .mob-menus div{  
+    text-align:center;  
+    padding: 30px 0;  
+    font-weight: 700;  
+    font-size: 20px;
+  }
+
   .intro-section {
       flex-direction: column;
       padding: 0 20px;
